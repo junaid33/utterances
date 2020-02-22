@@ -171,7 +171,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.UTTERANCES_API = void 0;
-var UTTERANCES_API = 'https://api.utteranc.es';
+var UTTERANCES_API = "https://utterances-features.azurewebsites.net";
 exports.UTTERANCES_API = UTTERANCES_API;
 },{}],"oauth.ts":[function(require,module,exports) {
 "use strict";
